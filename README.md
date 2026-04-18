@@ -1,4 +1,4 @@
-# Hi, I'm Vedansh 👋
+# Hi, I'm Vedansh
 
 **Mechanical Engineering @ IIT Indore** · Data Analyst · AI/ML Builder · Space Enthusiast
 
