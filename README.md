@@ -9,9 +9,9 @@ I work at the intersection of **data, AI, and real-world systems** — from anal
 ## 🛠 Tech Stack
 
 **Languages** · Python · SQL · C++ · HTML  
-**Data & Analysis** · Pandas · NumPy · Matplotlib · Seaborn · Regex · Jupyter · Excel · Power BI  
-**AI / ML** · Scikit-learn · NLP · FAISS · RAG · QLoRA · Fine-tuning (Qwen2.5) · Neural Networks  
-**Systems & Tools** · FastAPI · Git · Geospatial Pipelines · Delta Tables · Sarvam AI
+**Data & Analysis** · Pandas · NumPy · Matplotlib · Seaborn · Jupyter · Excel · Power BI  
+**AI / ML** · Scikit-learn · NLP · FAISS · RAG · QLoRA · Fine-tuning · Neural Networks  
+**Systems & Tools** · Git · Geospatial Pipelines · Delta Tables · Databricks
 
 ---
 
@@ -44,4 +44,4 @@ I work at the intersection of **data, AI, and real-world systems** — from anal
 
 ---
 
-<sub>Co-Head · Astronomy (AsSET) Club, IIT Indore &nbsp;|&nbsp; Head Alumni Records · Alumni Cell &nbsp;|&nbsp; NXP-AIM Regional Finalist (Top 100/600+ teams)</sub>
+<sub>NXP-AIM Regional Finalist (Top 100/600+ teams) &nbsp;|&nbsp; Head Alumni Records · Alumni Cell (2025-2026) &nbsp;|&nbsp; Robotics Club &nbsp;|&nbsp; Co-Head · Astronomy (AsSET) Club, IIT Indore (2024-2026)</sub>
