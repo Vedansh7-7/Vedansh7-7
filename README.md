@@ -10,7 +10,7 @@ I work at the intersection of **data, AI, and real-world systems** — from anal
 
 **Languages** · Python · SQL · C++ · HTML  
 **Data & Analysis** · Pandas · NumPy · Matplotlib · Seaborn · Jupyter · Excel · Power BI  
-**AI / ML** · Scikit-learn · NLP · FAISS · RAG · QLoRA · Fine-tuning · Neural Networks  
+**AI / ML** · Scikit-learn · NLP · FAISS · RAG · QLoRA · Fine-tuning · Neural Networks · Vector Embeddings
 **Systems & Tools** · Git · Geospatial Pipelines · Delta Tables · Databricks
 
 ---
