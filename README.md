@@ -10,9 +10,9 @@
 <a href="https://www.iiti.ac.in"><img src="https://img.shields.io/badge/IIT%20Indore-003580?style=flat-square" alt="IIT Indore" /></a>
 </div>
 
-**Mechanical Engineering @ IIT Indore**
+**B.Tech @ IIT Indore** · Embodied AI
 
-I work at the intersection of data, AI, and real-world systems, from analysing exoplanetary atmospheres for ISRO to building autonomous drone delivery systems. I like turning messy data into decisions and models into working products.
+I work at the intersection of data, ML, and embodied AI, from analysing exoplanetary atmospheres for ISRO to building autonomous drone systems. I like turning messy data into decisions and models into working products.
 
 ---
 
