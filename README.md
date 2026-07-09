@@ -1,6 +1,8 @@
 <!-- Profile README for github.com/Vedansh7-7. Place this in a public repo named "Vedansh7-7". -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A855F7&height=190&section=header&text=Vedansh%20Shrivastava&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20AI%2FML%20Builder%20%C2%B7%20Space%20Enthusiast&descAlignY=58&descSize=17" alt="Vedansh Shrivastava" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A855F7&height=190&section=header&text=Vedansh%20Shrivastava&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20%C2%B7%20AI%20%C2%B7%20ML%20%C2%B7%20Tech&descAlignY=58&descSize=17" alt="Vedansh Shrivastava" />
+
+<div align="center"><i>Carpe Diem</i></div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/explorerr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
