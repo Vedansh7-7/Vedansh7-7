@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/Vedansh7-7. Place this in a public repo named "Vedansh7-7". -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A855F7&height=190&section=header&text=Vedansh%20Shrivastava&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20%C2%B7%20AI%20%C2%B7%20ML%20%C2%B7%20Tech&descAlignY=58&descSize=17" alt="Vedansh Shrivastava" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A855F7&height=190&section=header&text=Vedansh%20Shrivastava&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Experimentation%20%C2%B7%20Product%20Analytics&descAlignY=58&descSize=17" alt="Vedansh Shrivastava" />
 
 <div align="center"><i>Carpe Diem</i></div>
 
@@ -10,27 +10,42 @@
 <a href="https://www.iiti.ac.in"><img src="https://img.shields.io/badge/IIT%20Indore-003580?style=flat-square" alt="IIT Indore" /></a>
 </div>
 
-**B.Tech @ IIT Indore** · Embodied AI
+**B.Tech @ IIT Indore** · Data Science · Product Analytics
 
-I work at the intersection of data, ML, and embodied AI, from analysing exoplanetary atmospheres for ISRO to building autonomous drone systems. I like turning messy data into decisions and models into working products.
+I turn messy data into decisions. My recent work is on **experimentation**: measuring when an A/B test can be trusted, and using Bayesian methods to pick better options faster and with less waste. Before that I worked on data pipelines and models, from analysing exoplanetary atmospheres for ISRO to building autonomous drone systems.
 
 ---
 
-## 🛠 Tech Stack
+## 🧪 Featured: Thompson, a Bayesian experimentation engine
+
+[**Thompson**](https://github.com/Vedansh7-7/Thompson) chooses which checkout offer a quick-commerce app should show, and compares five decision methods in a realistic traffic simulator (500 simulated campaigns per method and scenario):
+
+- **28× less profit lost while testing** than a standard fixed A/B test (Thompson sampling with expected-loss stopping, 14-day campaign).
+- **Found the most profitable offer in 3 days in 99% of campaigns**, where the fixed test succeeded in 33%.
+- **Measured the cost of peeking:** checking a fixed test every evening raised false alarms from 2.2% to 9.4%.
+- **Avoided the conversion trap:** decisions are made on profit per visitor, so the offer with the highest order rate but the lowest profit was never chosen.
+
+`Python` · `NumPy` · `SciPy` · `pandas` · Bayesian inference · hypothesis testing · Monte Carlo simulation
+
+---
+
+## 🛠 Skills
+
+**Statistics & Experimentation**  
+A/B testing · Hypothesis testing (z-test, Welch's t-test, χ²) · Power & sample size · Bayesian inference · Multi-armed bandits · Monte Carlo simulation
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Data & Analysis**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **AI / ML**  
@@ -41,22 +56,33 @@ NLP · FAISS · RAG · QLoRA · Fine-tuning · Neural Networks · Vector Embeddi
 
 **Systems & Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
 Geospatial Pipelines · Delta Tables
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Data & Analytics Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Thompson**](https://github.com/Vedansh7-7/Thompson) | Bayesian experimentation engine: five A/B-testing and bandit methods compared on accuracy, false alarms and profit lost, across 500 simulated campaigns each | Python · NumPy · SciPy · Statistics |
+| [**IndiaPulse.ai**](https://github.com/Vedansh7-7/IndiaPulse.ai) | KPI storytelling and root-cause investigation engine (Accenture Innovation Challenge 2026) | Python |
+| [**DataFlow**](https://github.com/Vedansh7-7/DataFlow) | E-commerce analytics platform: transactional SQL data, FastAPI services and business KPIs | Python · MySQL · FastAPI |
+| [**ML Detective**](https://github.com/Vedansh7-7/ml-detective) | A data-forensics game: find the one planted fault in each dataset with real Python | Python · HTML |
+| [**Uber Eats Delivery Analytics**](https://github.com/Vedansh7-7/ubereats-delivery-analytics) | Geospatial delivery pipeline on 45k+ rows; cut runtime from 7 hrs → 39 min; segmented 22 cities | Pandas · Regex · Geospatial · Seaborn |
+| [**Spotify Music Analysis**](https://github.com/Vedansh7-7/Spotify-Data-Analysis) | Built a "popularity blueprint" from 10 audio features; identified top-growth genres for 2025 | Pandas · Seaborn · EDA |
+
+## 🤖 ML & AI Projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | [**ResumeForge AI**](https://github.com/Vedansh7-7/ResumeForgeAI) | Schema-driven resume engine that tailors resumes to a job description: JD parsing, semantic retrieval, section-wise LLM generation, and automated LaTeX rendering | Python · LangChain · FAISS · Ollama · LaTeX |
-| [**Boids**](https://github.com/Vedansh7-7/Boids) | Flocking simulation written entirely in C++; emergent motion from three simple local rules | C++ |
 | [**VecLens**](https://github.com/Vedansh7-7/VecLens) | Recommendation engine built from scratch: custom TF-IDF vectorizer, cosine similarity, PCA visualization, and a Streamlit app with live token weight breakdown | Python · NumPy · Streamlit · sklearn |
-| [**Uber Eats Delivery Analytics**](https://github.com/Vedansh7-7/ubereats-delivery-analytics) | Geospatial delivery pipeline on 45k+ rows; cut runtime from 7 hrs → 39 min; segmented 22 cities | Pandas · Regex · Geospatial · Seaborn |
-| [**Spotify Music Analysis**](https://github.com/Vedansh7-7/Spotify-Data-Analysis) | Built a "popularity blueprint" from 10 audio features; identified top-growth genres for 2025 | Pandas · Seaborn · EDA |
 | [**Kirana AI**](https://github.com/Amberss-Log/BharatHacks_KIRANA_AI) | AI assistant for small Kirana store owners: inventory insights, daily digest, RAG cold-start, multilingual voice | Python · Delta Lake · Sarvam AI · RAG |
+| [**Boids**](https://github.com/Vedansh7-7/Boids) | Flocking simulation written entirely in C++; emergent motion from three simple local rules | C++ |
 | [**CubeSat Ground Station GUI**](https://github.com/Vedansh7-7/CubeSat) | Real-time telemetry monitoring GUI for a student CubeSat project | Python |
 
 ---
